@@ -8,11 +8,6 @@ The model is trained using XGBoost and evaluated with advanced classification me
 
 Dispatch Warehouse,	SC Code, SC Status, Destination Pincode, Courier Assign,	Dispatch Dt, Mode, Avg_Transit_time, 	Courier delay AT_Sc_code, Courier delay AT_Pincode,	Rolling 7D_delay, Rolling 30D_delay, Target
 
-
-**Platform** 🖥
-
-Visual Studio code ( VS code )
-
 **Python Key Libraries** 🔗
 
 Pandas (Data Manipulation)
@@ -24,6 +19,7 @@ Scikit-learn (Model Training)
 joblib (Model deploy)
 
 🤖 **Model Used**
+
 Model: XGBoost Classifier
 
 Target Variable: Delay (0 = No Delay, 1 = Delay)
