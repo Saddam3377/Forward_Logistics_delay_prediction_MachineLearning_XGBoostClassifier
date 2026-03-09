@@ -50,12 +50,12 @@ Precision (Delay): 0.54, Recall (Delay): 0.90, F1-Score (Delay): 0.59
 
 Confusion matrix heatmap :
 
-<img width="915" height="775" alt="image" src="https://github.com/user-attachments/assets/95b1b4ab-3b4e-4357-8046-c7b372318606" />
+<img width="565" height="415" alt="image" src="https://github.com/user-attachments/assets/95b1b4ab-3b4e-4357-8046-c7b372318606" />
 
 
 ROC-AUC curve: To check how well the classifier separates two classes
 
-<img width="915" height="775" alt="image" src="https://github.com/user-attachments/assets/fb476610-78e3-448b-98b2-bf9f23d7d2d4" />
+<img width="565" height="415" alt="image" src="https://github.com/user-attachments/assets/fb476610-78e3-448b-98b2-bf9f23d7d2d4" />
 
 
 
