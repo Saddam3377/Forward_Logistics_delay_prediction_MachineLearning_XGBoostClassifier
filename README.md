@@ -1,4 +1,4 @@
-🚚# Forward_Logistics_delay_prediction_MachineLearning_XGBoostClassifier-
+# 🚚Forward_Logistics_delay_prediction_MachineLearning_XGBoostClassifier-
 Leveraging Machine Learning to eliminate supply chain Logistics bottlenecks. This project deploys a XGBoost classifier Regression model to predict potential delivery delays between fixed service centers. By analyzing historical dispatch patterns, the system provides actionable insights to optimize forward logistics and improve delivery reliability.
 
 Raw data contains 6 months of forward dispatch ( WH to Service center(SC), respective location) by using different courier modes like Air and 
@@ -52,6 +52,7 @@ Model Evaluation
       │
       ▼
 Prediction
+
 
 🤖 **Model Used**
 
